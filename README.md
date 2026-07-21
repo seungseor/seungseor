@@ -1,5 +1,4 @@
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seungseor&theme=github_dark&utcOffset=9)
-
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=seungseor&layout=compact&langs_count=8&theme=transparent&hide_border=true)
 
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=seungseor&layout=compact&langs_count=8&theme=transparent&hide_border=true)
