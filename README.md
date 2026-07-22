@@ -14,3 +14,9 @@
     alt="Repos per Language"
   />
 </p>
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
