@@ -15,21 +15,3 @@
   />
 </p>
 
-## ⏱️ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 17 September 2026 - To: 24 September 2026
-
-Total Time: 9 hrs 14 mins
-
-Other      9 hrs 53 mins         █████████████░░░░░░░░░░░░   51.68 %
-Text       4 hrs 26 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.19 %
-Markdown   2 hrs 6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
-Python     2 hrs 1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-JSON       40 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
-```
-
-<!--END_SECTION:waka-->
-
